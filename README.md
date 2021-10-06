@@ -17,9 +17,3 @@
     - [Learning Codebase](https://ardupilot.org/dev/docs/learning-the-ardupilot-codebase.html)
     - [Join Official Discord](https://discord.com/invite/zT2DCxn)
 
-Hello Shane! :) 
-Hello Zach! :) 
-
-...
-
-Hell Julio Now For real.
