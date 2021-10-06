@@ -2,27 +2,34 @@
 it's not that hard :) 
 
 # Download Git
-from here
+[Click Here to Install Git on Windows](https://git-scm.com/download/win)
+- [Help with Installing Git and other systems](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+
 # Git Bash
 
 ### Open the Git Bash Terminal via File Explorer in the folder you want the repo to be
-<img src="Git_Bash_Here.png">
+<img src="images/Git_Bash_Here.png">
 <br>
 <br>
 
 ### Navigate to the repo on your browser and copy the HTTPS path for cloning
-<img src="HTTPS_repo_link.png">
+<img src="images/HTTPS_repo_link.png">
 <br>
 <br>
 
 ### Use the Terminal to clone the Git repo to your machine
-<img src="git_clone.png">
+<img src="images/git_clone.png">
 <br>
 <br>
 
 ### Change Directory into the locally stored repo
-<img src="cd_repo.png">
+<img src="images/cd_repo.png">
 <br>
+<br>
+
+Once you are in the locally stored repo, you can begin working and making commits to the remotely stored repository.
+
 <br>
 
 # Helpful Links
