@@ -30,18 +30,6 @@
 ##### * These are the commands you will use most often
 <br>
 
-# Git Bash
-
-### Open the Git Bash Terminal via File Explorer
-<img src="Git_Bash_Here.png">
-<br>
-<br>
-
-### Use the Terminal to enter Git commands easily 
-<img src="Git_Bash.png">
-<br>
-<br>
-
 # Helpful Links
 
 - [Git Main Site](https://git-scm.com/)
